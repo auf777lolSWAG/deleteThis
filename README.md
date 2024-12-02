@@ -6,3 +6,7 @@
 
 
 ![Image of cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHojjbA1J2iTsw4QHOoSXqurx5Xo51fdFJA&s)
+
+- [X] **Пушистый**
+- [X] **Очаровательный**
+- [X] **Просто ми-ми (^-^)**
